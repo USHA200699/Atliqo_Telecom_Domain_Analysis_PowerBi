@@ -1,6 +1,6 @@
 # Atliqo_Telecom_Domain_Analysis_PowerBi
 
-As part of the December month codebaiscs resume challenge, I have performed data analysis and designed a dashboard in Power BI
+As part of the December month codebasics resume challenge, I have performed data analysis and designed a dashboard in Power BI
 
 Live Dashboard [Link]:(https://www.novypro.com/project/telecom-domain-analysis)
 
